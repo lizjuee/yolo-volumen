@@ -1,8 +1,6 @@
 # yolo-volumen
 detect object and get it's location use Yolo, then caculate the volumen of the object by deepth information.
 
-<img src="https://github.com/lizjuee/orange-grasp/blob/master/picture/2.jpg" width="600">
-
 # develop environment：
 Ubuntu 16.04 + ros kinetic &&  Ubuntu 18.04 + ros melodic
 
